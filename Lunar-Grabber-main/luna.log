@@ -1,0 +1,100 @@
+[admin.py:29] - 2023-08-03 19:51:57,338 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-03 19:51:57,338 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-03 19:51:57,356 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'builder.pyw']
+[admin.py:80] - 2023-08-03 19:51:57,356 - INFO - Running command 'C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' - 'builder.pyw'
+[admin.py:29] - 2023-08-03 19:51:59,359 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,585 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,585 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,585 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,586 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,588 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,588 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,588 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,588 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,588 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,589 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,589 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,589 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,589 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,589 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,590 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,590 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,590 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,590 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:51:59,590 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1048] - 2023-08-03 19:54:15,690 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-08-03 19:54:16,034 - DEBUG - https://discord.com:443 "GET /api/webhooks/1136701087349493803/41JvJPVFRKS9dZSMfqLGoBzVZ1RJBiXi0BRvFXrWpyg97lW7xGImeA7zHbP5SDZMc6ge HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-08-03 19:57:16,908 - INFO - Retrieved filename: Instructions
+[builder.pyw:394] - 2023-08-03 19:57:16,909 - INFO - Changed filetype: pyinstaller
+[builder.pyw:394] - 2023-08-03 19:57:16,909 - INFO - Changed filetype: pyinstaller
+[builder.pyw:445] - 2023-08-03 19:57:16,911 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-08-03 19:57:17,039 - INFO - Successfully obfuscated file: Instructions.py
+[builder.pyw:489] - 2023-08-03 19:58:01,258 - INFO - Successfully compiled Instructions.exe with pyinstaller
+[builder.pyw:529] - 2023-08-03 19:58:01,875 - INFO - Successfully removed directory: ./build
+[builder.pyw:538] - 2023-08-03 19:58:01,875 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:538] - 2023-08-03 19:58:01,875 - INFO - Successfully removed file: ./Instructions.py
+[builder.pyw:538] - 2023-08-03 19:58:01,876 - INFO - Successfully removed file: ./Instructions.spec
+[admin.py:29] - 2023-08-03 19:59:29,804 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-03 19:59:29,804 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-03 19:59:29,810 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'builder.pyw']
+[admin.py:80] - 2023-08-03 19:59:29,810 - INFO - Running command 'C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' - 'builder.pyw'
+[admin.py:29] - 2023-08-03 19:59:31,904 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,044 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,045 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,046 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,047 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 19:59:32,047 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-08-03 19:59:35,064 - INFO - Process handle <PyHANDLE:1572> returned code 0
+[admin.py:29] - 2023-08-03 20:00:45,870 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-03 20:00:45,870 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-03 20:00:45,878 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'builder.pyw']
+[admin.py:80] - 2023-08-03 20:00:45,878 - INFO - Running command 'C:\\Users\\tudos\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' - 'builder.pyw'
+[admin.py:29] - 2023-08-03 20:00:47,987 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,105 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,106 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,107 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,107 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,107 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,107 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-03 20:00:48,107 - DEBUG - STREAM b'IDAT' 91 1063
